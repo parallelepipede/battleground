@@ -17,7 +17,7 @@ Extracting and placing Heroe's average ranking in the Excel file is automaticall
 
 ### Statistics 
 
-<img src="images/Edwin_result.png?raw=true" />
+<img src="images/results.png?raw=true" />
 
 This application provides an analysis of compositions and results for each available heroe. 
 The visual rendering is done with Matplotlib library.
